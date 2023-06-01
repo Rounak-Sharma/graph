@@ -1,0 +1,233 @@
+*{
+    margin: 5px;
+    /* background-color: rgb(0, 0, 0); */
+  }
+  p {
+    color: white;
+  }
+  h1{
+    font-family: cursive;
+  }
+  .v {
+    display: inline-block;
+    width: 2%;
+    height: 590px;
+    background-color: rgb(128, 20, 161);
+  }
+
+  .i {
+    display: inline-block;
+    width: 2%;
+    height: 570px;
+    background-color: rgb(60, 0, 139);
+  }
+
+  .b {
+    display: inline-block;
+    width: 2%;
+    height: 550px;
+    background-color: blue;
+  }
+  .g {
+    display: inline-block;
+    width: 2%;
+    height: 530px;
+    background-color: rgb(31, 190, 58);
+  }
+  .y {
+    display: inline-block;
+    width: 2%;
+    height: 510px;
+    background-color: rgb(213, 248, 15);
+  }
+  .o {
+    display: inline-block;
+    width: 2%;
+    height: 490px;
+    background-color: rgb(255, 175, 3);
+  }
+  .r {
+    display: inline-block;
+    width: 2%;
+    height: 470px;
+    background-color: rgb(255, 0, 0);
+  }
+  .v1 {
+    display: inline-block;
+    width: 2%;
+    height: 450px;
+    background-color: rgb(128, 20, 161);
+  }
+
+  .i1 {
+    display: inline-block;
+    width: 2%;
+    height: 430px;
+    background-color: rgb(60, 0, 139);
+  }
+
+  .b1 {
+    display: inline-block;
+    width: 2%;
+    height: 410px;
+    background-color: blue;
+  }
+  .g1 {
+    display: inline-block;
+    width: 2%;
+    height: 390px;
+    background-color: rgb(31, 190, 58);
+  }
+  .y1 {
+    display: inline-block;
+    width: 2%;
+    height: 370px;
+    background-color: rgb(213, 248, 15);
+  }
+  .o1 {
+    display: inline-block;
+    width: 2%;
+    height: 350px;
+    background-color: rgb(255, 175, 3);
+  }
+  .r1{
+    display: inline-block;
+    width: 2%;
+    height: 330px;
+    background-color: rgb(255, 0, 0);
+  }
+  /*3rd stard of vibyor*/
+  .v2 {
+    display: inline-block;
+    width: 2%;
+    height: 310px;
+    background-color: rgb(128, 20, 161);
+  }
+
+  .i2 {
+    display: inline-block;
+    width: 2%;
+    height: 290px;
+    background-color: rgb(60, 0, 139);
+  }
+
+  .b2 {
+    display: inline-block;
+    width: 2%;
+    height: 270px;
+    background-color: blue;
+  }
+  .g2 {
+    display: inline-block;
+    width: 2%;
+    height: 250px;
+    background-color: rgb(31, 190, 58);
+  }
+  .y2 {
+    display: inline-block;
+    width: 2%;
+    height: 230px;
+    background-color: rgb(213, 248, 15);
+  }
+  .o2 {
+    display: inline-block;
+    width: 2%;
+    height: 210px;
+    background-color: rgb(255, 175, 3);
+  }
+  .r2 {
+    display: inline-block;
+    width: 2%;
+    height: 190px;
+    background-color: rgb(255, 0, 0);
+  }
+  /*4th strad of vibgyor*/
+  .v3 {
+    display: inline-block;
+    width: 2%;
+    height: 180px;
+    background-color: rgb(128, 20, 161);
+  }
+
+  .i3 {
+    display: inline-block;
+    width: 2%;
+    height: 170px;
+    background-color: rgb(60, 0, 139);
+  }
+
+  .b3 {
+    display: inline-block;
+    width: 2%;
+    height: 150px;
+    background-color: blue;
+  }
+  .g3{
+    display: inline-block;
+    width: 2%;
+    height: 130px;
+    background-color: rgb(31, 190, 58);
+  }
+  .y3 {
+    display: inline-block;
+    width: 2%;
+    height: 110px;
+    background-color: rgb(213, 248, 15);
+  }
+  .o3 {
+    display: inline-block;
+    width: 2%;
+    height: 90px;
+    background-color: rgb(255, 175, 3);
+  }
+  .r3 {
+    display: inline-block;
+    width: 2%;
+    height: 70px;
+    background-color: rgb(255, 0, 0);
+  }
+  /*5th strad*/
+  .v4 {
+    display: inline-block;
+    width: 2%;
+    height: 55px;
+    background-color: rgb(128, 20, 161);
+  }
+
+  .i4 {
+    display: inline-block;
+    width: 2%;
+    height: 40px;
+    background-color: rgb(60, 0, 139);
+  }
+
+  .b4 {
+    display: inline-block;
+    width: 1.5%;
+    height: 25px;
+    background-color: blue;
+  }
+  .g4 {
+    display: inline-block;
+    width: 1%;
+    height: 15px;
+    background-color: rgb(31, 190, 58);
+  }
+  .y4 {
+    display: inline-block;
+    width: 1%;
+    height: 10px;
+    background-color: rgb(213, 248, 15);
+  }
+  .o4 {
+    display: inline-block;
+    width: 1%;
+    height: 5px;
+    background-color: rgb(255, 175, 3);
+  }
+  .r4 {
+    display: inline-block;
+    width: 1%;
+    height: 1px;
+    background-color: rgb(255, 0, 0);
+  }
